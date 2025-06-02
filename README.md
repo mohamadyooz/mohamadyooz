@@ -41,7 +41,7 @@ const thai = {
     <a href="https://t.me/Mohammadhyz" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo.png" alt="external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo"/>
 </p>
 
-<h2>⚡️ &nbsp; Github Stats</h2>
+<h2>Github Stats</h2>
 
 <a href="https://github.com/sabzlearn-ir">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamadyooz&show_icons=true&theme=radical" />
