@@ -37,9 +37,9 @@ const thai = {
 ### Social
 
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/email.png" alt="email"/>
-    <a href="" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo"/>
-    <a href="" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo.png" alt="external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo"/>
+    <a href="mhmdywz112@gmail.com" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/email.png" alt="email"/>
+    <a href="https://www.linkedin.com/in/mohammad-hossein-yosefy-8395b131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo"/>
+    <a href="https://t.me/Mohammadhyz" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo.png" alt="external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo"/>
 </p>
 
 <h2>⚡️ &nbsp; Github Stats</h2>
