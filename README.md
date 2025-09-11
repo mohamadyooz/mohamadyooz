@@ -23,6 +23,7 @@ const thai = {
 - ✉️  You can contact me at [mhmdywz112@gmail.com](mailto:mhmdywz112@gmail.com)
 - 🧠  I'm learning zustand , tailwind css
 - 🤝  I'm open to collaborating on React based projects
+- ✉️  I am developing a Tech Heim project.
 
 ### Skills
 
