@@ -40,7 +40,7 @@ const thai = {
 <p align="left">
     <a href="https://www.linkedin.com/in/mohammad-hossein-yosefy-8395b131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo"/>
     <a href="https://t.me/Mohammadhyz" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo.png" alt="external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo"/>
- <a href="https://www.instagram.com/mohammadyz_?utm_source=qr&igsh=cGNreW42eTNyM3d0" target="_blank" rel="noreferrer"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" alt="instagram-new--v2"/>
+ <a margin="0" href="https://www.instagram.com/mohammadyz_?utm_source=qr&igsh=cGNreW42eTNyM3d0" target="_blank" rel="noreferrer"><img margin="0" width="48" height="48" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true"/>
 </p>
 
 <h2>Github Stats</h2>
